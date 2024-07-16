@@ -11,6 +11,5 @@ Random number generation using Random class.
 Loop structures (while loops) for game flow control.
 Conditional statements (if-else) for decision-making based on user input.
 String manipulation and comparison for replay option.
+
 The game starts with a welcome message and prompts the player to guess a number. If the player guesses correctly within the allowed attempts, they earn a point. The game continues until the player chooses not to play again. The final score, indicating the number of successful guesses, is displayed at the end of the game session.
-
-
