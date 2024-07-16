@@ -10,4 +10,6 @@ Input handling using Scanner for user interaction.
 Array manipulation and indexing for currency names and exchange rates.
 Basic arithmetic operations for currency conversion calculations.
 
+Functionality:
+
 The program starts by displaying a list of available currencies along with their corresponding numbers. Users input their choices and the amount they wish to convert, and the program calculates and displays the converted amount based on predefined exchange rates. The process continues until the user chooses to exit.
