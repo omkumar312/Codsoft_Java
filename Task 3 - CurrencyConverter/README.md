@@ -1,4 +1,4 @@
-Currency Converter
+CURRENCY CONVERTER
 
 This Java program allows users to convert between various currencies using exchange rates relative to the Indian Rupee. It features a simple console-based interface where users can select currencies to convert from and to, input an amount, and receive the converted amount.
 
