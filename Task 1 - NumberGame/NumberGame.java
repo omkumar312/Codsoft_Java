@@ -6,7 +6,7 @@ public class NumberGame {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("Welcome to the Number Guessing Game!");
+        System.out.println("\nWelcome to the Number Guessing Game!");
 
         int score = 0;
         boolean playAgain = true;
